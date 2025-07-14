@@ -12,5 +12,5 @@ export interface Styles {
 }
 export interface ButtonProps {
   title: string;
-  styles: Styles;
+  styles: string;
 }
